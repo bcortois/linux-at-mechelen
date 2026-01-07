@@ -32,7 +32,7 @@ export default function Home({ posts }) {
             </p>
 
             <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-              Linux @ Kortrijk maakt deel uit van de{' '}
+              Linux @ Mechelen maakt deel uit van de{' '}
               <Link
                 href="https://endof10.org"
                 className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 font-medium"
