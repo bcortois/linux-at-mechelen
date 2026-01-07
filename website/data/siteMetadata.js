@@ -1,17 +1,17 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Linux @ Kortrijk',
+  title: 'Linux @ Mechelen',
   author: 'Hendrik Hamerlinck',
-  headerTitle: 'Linux @ Kortrijk',
-  description: 'Linux @ Kortrijk helpt je met Linux en Open Source software.',
+  headerTitle: 'Linux @ Mechelen',
+  description: 'Linux @ Mechelen helpt je met Linux en Open Source software.',
   language: 'nl-be',
   locale: 'nl-BE',
   theme: 'light', // system, dark or light
-  siteUrl: 'https://linux-at-kortrijk.be',
-  siteRepo: 'https://github.com/hammerlink/linux-at-kortrijk',
+  siteUrl: 'https://linux-at-mechelen.be',
+  siteRepo: 'https://github.com/bcortois/linux-at-mechelen',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
-  email: 'hendrik.hamerlinck@hammernet.be',
+  email: 'bert.cortois@outlook.be',
   github: 'https://github.com',
   // mastodon: 'https://mastodon.social/@mastodonuser',
   // x: 'https://twitter.com/x',
