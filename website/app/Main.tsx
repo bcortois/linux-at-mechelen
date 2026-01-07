@@ -13,7 +13,7 @@ export default function Home({ posts }) {
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <div className="space-y-6 pb-8">
             <h1 className="text-3xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 dark:text-gray-100">
-              Welkom bij Linux @ Mechelen
+              Welkom bij Linux @ Kortrijk
             </h1>
             <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
               Wat je ook doet op je computer (surfen, werken, creëren of gewoon alles daartussen)
@@ -26,13 +26,13 @@ export default function Home({ posts }) {
             </h2>
 
             <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-              In oktober 2026 stopt Microsoft de verlengde ondersteuning voor Windows 10. Dat betekent: geen
+              In oktober stopt Microsoft de ondersteuning voor Windows 10. Dat betekent: geen
               updates meer, minder veiligheid, en vaak de drang om nieuwe hardware te kopen. Maar
               dat is nergens voor nodig.
             </p>
 
             <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-              Linux @ Mechelen maakt deel uit van de{' '}
+              Linux @ Kortrijk maakt deel uit van de{' '}
               <Link
                 href="https://endof10.org"
                 className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 font-medium"
