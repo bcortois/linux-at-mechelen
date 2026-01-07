@@ -13,7 +13,7 @@ export default function Home({ posts }) {
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <div className="space-y-6 pb-8">
             <h1 className="text-3xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 dark:text-gray-100">
-              Welkom bij Linux @ Kortrijk
+              Welkom bij Linux @ Mechelen
             </h1>
             <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
               Wat je ook doet op je computer (surfen, werken, creëren of gewoon alles daartussen)
