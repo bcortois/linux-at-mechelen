@@ -1,7 +1,7 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'Linux @ Mechelen',
-  author: 'Hendrik Hamerlinck',
+  author: 'Bert Cortois',
   headerTitle: 'Linux @ Mechelen',
   description: 'Linux @ Mechelen helpt je met Linux en Open Source software.',
   language: 'nl-be',
