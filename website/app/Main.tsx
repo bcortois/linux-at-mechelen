@@ -26,9 +26,9 @@ export default function Home({ posts }) {
             </h2>
 
             <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-              In oktober stopt Microsoft de ondersteuning voor Windows 10. Dat betekent: geen
-              updates meer, minder veiligheid, en vaak de drang om nieuwe hardware te kopen. Maar
-              dat is nergens voor nodig.
+              In oktober 2026 stopt Microsoft de verlengde ondersteuning voor Windows 10.
+              Dat betekent: geen updates meer, minder veiligheid, en vaak de drang
+              om nieuwe hardware te kopen. Maar dat is nergens voor nodig.
             </p>
 
             <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
