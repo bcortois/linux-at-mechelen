@@ -11,7 +11,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/bcortois/linux-at-mechelen',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
-  email: 'bert.cortois@outlook.be',
+  email: 'info@linux-at-mechelen.be',
   github: 'https://github.com',
   // mastodon: 'https://mastodon.social/@mastodonuser',
   // x: 'https://twitter.com/x',
