@@ -81,16 +81,16 @@ export default function Home({ posts }) {
 
                 <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
                   <span className="font-semibold text-gray-900 dark:text-gray-100">
-                    Ondersteuning:
+                    Troubleshooting:
                   </span>{' '}
-                  In partnerschap met andere ondersteunende diensten en organisatie zorgen we voor steunpunten waar je met Linux terecht kan voor Digi-problemen.
+                  Vragen of problemen? We bieden ondersteuning, ook na installatie.
                 </p>
 
                 <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
                   <span className="font-semibold text-gray-900 dark:text-gray-100">
-                    Gesprekken en netwerken:
+                    Gesprekken:
                   </span>{' '}
-                  We praten graag over Linux en Open Source Software. We hopen samen met andere Mechelaars hierover uit te wisselen.
+                  We praten graag over Linux, Desktop Environments, Open Source Software.
                 </p>
               </div>
             </div>
