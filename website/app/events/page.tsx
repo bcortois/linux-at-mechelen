@@ -8,21 +8,21 @@ export default function Events() {
     <div className="divide-y divide-gray-200 dark:divide-gray-700">
       <div className="space-y-2 pt-6 pb-8 md:space-y-5">
         <h1 className="text-3xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 dark:text-gray-100">
-          Infosessies in de Bibliotheek
+          Binnenkort: Infosessies in Mechelen
         </h1>
         <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-          Kom meer te weten over digitale alternatieven nu Windows 10 stopt.
+          Wij houden je op de hoogte van de aankomende sessies via deze pagina.
         </p>
       </div>
 
       <div className="prose dark:prose-invert max-w-none pt-4">
         <ul>
-          <li>📍 Locatie: Maakbib -1, Bibliotheek Kortrijk</li>
-          <li>🕑 Tijdstip: 13:30 – 15:30</li>
-          <li>📅 Data: 4 oktober, 15 november, 29 november</li>
+          <li>📍 Locatie: Mechelen, meer details volgen nog.</li>
+          <li>🕑 Tijdstip: Nog te bepalen</li>
+          <li>📅 Data: Nog te bepalen</li>
         </ul>
       </div>
-      <div className="py-6">
+      <div className="py-6" hidden>
         <Image
           src="/static/images/end-of-10.jpg" // Zorg dat dit pad klopt
           alt="End of 10"
@@ -32,7 +32,7 @@ export default function Events() {
         />
       </div>
 
-      <div className="prose dark:prose-invert max-w-none pt-8">
+      <div className="prose dark:prose-invert max-w-none pt-8" hidden>
         <p>
           Vanaf oktober 2025 stopt Microsoft de ondersteuning voor Windows 10. Dit betekent dat veel
           toestellen die technisch nog goed functioneren, niet langer veilig zijn of als ‘verouderd’
