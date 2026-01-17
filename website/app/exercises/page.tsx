@@ -24,8 +24,7 @@ export default function Exercises() {
         </h1>
         <p className="text-gray-600 dark:text-gray-400">
           Dit is een overzicht van basistaken die je stap voor stap kunt uitproberen. Hiervoor
-          voorzien we een USB-stick met een voorgeïnstalleerde Linux Mint versie, maar je kunt de
-          oefeningen ook rechtstreeks op je eigen systeem uitvoeren, bij voorkeur met Linux Mint 22.
+          voorzien we een USB-stick met een voorgeïnstalleerde Linux Mint versie, maar je kan ook zelf een <a href="https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html">USB-stick voorzien</a> van Linux Mint.
           Zo maak je kennis met Linux als een toegankelijk en gebruiksvriendelijk systeem voor
           alledaags computergebruik.
         </p>
