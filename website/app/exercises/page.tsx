@@ -24,7 +24,16 @@ export default function Exercises() {
         </h1>
         <p className="text-gray-600 dark:text-gray-400">
           Dit is een overzicht van basistaken die je stap voor stap kunt uitproberen. Hiervoor
-          voorzien we een USB-stick met een voorgeïnstalleerde Linux Mint versie, maar je kan ook zelf een <a href="https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html">USB-stick voorzien</a> van Linux Mint.
+          voorzien we een USB-stick met een voorgeïnstalleerde Linux Mint versie, maar je kan ook zelf een{' '}
+          <Link
+                href="https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html"
+                className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 font-medium"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                USB-stick voorzien
+              </Link>
+          van Linux Mint.
           Zo maak je kennis met Linux als een toegankelijk en gebruiksvriendelijk systeem voor
           alledaags computergebruik.
         </p>
