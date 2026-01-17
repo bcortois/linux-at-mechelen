@@ -15,11 +15,9 @@ export default function Page() {
             Over ons
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Wij willen zo veel mogelijk mensen helpen overstappen naar Linux. Omdat het werkt, omdat
-            het beter is voor je privacy, én omdat je zo deel wordt van een groeiende open source
-            gemeenschap. Met elke overstap versterken we de Linux-community én geven we de Europese
-            EuroStack-visie een duw in de juiste richting: minder afhankelijk van big tech, meer
-            controle over onze digitale toekomst.
+            Nu het einde van Windows 10 nadert, dreigen veel computers onnodig op de afvalberg te belanden. Wij willen mensen helpen hun computer langer te gebruiken door over te stappen op Linux. 
+            Linux werkt uitstekend op zowel oudere als nieuwere computers, is volledig gratis en bevat alle nodige programma’s voor e-mail, het bekijken van foto’s en surfen op het internet. 
+            Bovendien is het beter voor je privacy en biedt het meer keuzevrijheid
           </p>
           {allAuthors.sort(sortAuthorsByName).map((a) => (
             <AuthorLayout key={a._id} content={coreContent(a)}>
