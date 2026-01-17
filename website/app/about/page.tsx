@@ -21,7 +21,7 @@ export default function Page() {
             EuroStack-visie een duw in de juiste richting: minder afhankelijk van big tech, meer
             controle over onze digitale toekomst.
           </p>
-          {allAuthors.map((a) => (
+          {allAuthors.sort(sortAuthorsByName).map((a) => (
             <AuthorLayout key={a._id} content={coreContent(a)}>
               <MDXLayoutRenderer code={a.body.code} />
             </AuthorLayout>
