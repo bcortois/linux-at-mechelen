@@ -12,7 +12,7 @@ const siteMetadata = {
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   email: 'info@linux-at-mechelen.be',
-  github: 'https://github.com',
+  github: 'https://github.com/bcortois/linux-at-mechelen',
   // mastodon: 'https://mastodon.social/@mastodonuser',
   // x: 'https://twitter.com/x',
   // twitter: 'https://twitter.com/Twitter',
