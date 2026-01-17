@@ -33,17 +33,11 @@ export default function Page() {
 }
 
 function sortAuthorsByName(a: Authors, b: Authors) {
-  if (a.name! === 'bert') {
-    return -1
-  }
-  if (b.name! === 'bert') {
-    return 1
-  }
   if (a.name! < b.name!) {
-    return -1
+    return 1
   }
   if (a.name! > b.name!) {
-    return 1
+    return -1
   }
   return 0
 }
