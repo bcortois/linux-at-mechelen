@@ -34,7 +34,7 @@ export default function Exercises() {
               >
                 USB-stick voorzien
               </Link>
-          van Linux Mint.
+          {' '}van Linux Mint.
           Zo maak je kennis met Linux als een toegankelijk en gebruiksvriendelijk systeem voor
           alledaags computergebruik.
         </p>
