@@ -8,18 +8,18 @@ export default function Events() {
     <div className="divide-y divide-gray-200 dark:divide-gray-700">
       <div className="space-y-2 pt-6 pb-8 md:space-y-5">
         <h1 className="text-3xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 dark:text-gray-100">
-          Binnenkort: Infosessies in Mechelen
+          Linux als alternatief voor Windows 10
         </h1>
         <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-          Wij houden je op de hoogte van de aankomende sessies via deze pagina.
+          Een workshop voor Digihelpers en geïnteresseerden.
         </p>
       </div>
 
       <div className="prose dark:prose-invert max-w-none pt-4">
         <ul>
           <li>📍 Locatie: Mechelen, meer details volgen nog.</li>
-          <li>🕑 Tijdstip: Nog te bepalen</li>
-          <li>📅 Data: Nog te bepalen</li>
+          <li>🕑 Tijdstip: Avond</li>
+          <li>📅 Data: Donderdag 5 maart</li>
         </ul>
       </div>
       <div className="py-6" hidden>
@@ -32,25 +32,23 @@ export default function Events() {
         />
       </div>
 
-      <div className="prose dark:prose-invert max-w-none pt-8" hidden>
+      <div className="prose dark:prose-invert max-w-none pt-8">
         <p>
-          Vanaf oktober 2025 stopt Microsoft de ondersteuning voor Windows 10. Dit betekent dat veel
-          toestellen die technisch nog goed functioneren, niet langer veilig zijn of als ‘verouderd’
-          worden gezien.
+          Ideaal voor alles wat je dagelijks op je computer doet, en daarmee een prima alternatief voor wie een <strong>Windows 10</strong> toestel heeft dat nu al of straks niet meer ondersteund wordt.
         </p>
         <p>
-          In samenwerking met de bibliotheek van Kortrijk organiseren we laagdrempelige infosessies
-          om burgers te informeren over mogelijke alternatieven zoals <strong>Linux</strong>, een
-          gratis en duurzaam besturingssysteem.
+          Wat vandaag nog vooral de bewuste gebruiker aanspreekt die meer grip wil op technologie, zou morgen ook een goeie keuze kunnen zijn voor de modale burger die zijn toestel nog niet meteen naar de <strong>afvalberg</strong> wil verwijzen.
+        </p>
+        <p>
+          We nodigen je daarom graag uit op onze workshop, waar we <strong>Linux als alternatief</strong> voor Windows 10 voorstellen en luisteren naar de <strong>gastspreker</strong> uit Kortrijk die zijn praktijkervaring met Linux als <strong>digihelper</strong> deelt.
         </p>
         <p>Tijdens de sessies bieden we:</p>
         <ul>
-          <li>Informatie over de overstap van Windows naar Linux</li>
-          <li>Laptops met Linux om uit te proberen</li>
+          <li>Kennismaking met het initiaitef Linux@Mechelen</li>
+          <li>Een praktijkvoorbeeld van een ervaren digihelper</li>
           <li>De mogelijkheid om Linux tijdelijk op je eigen toestel te testen via USB-stick</li>
-          <li>Hulp bij installatie of vragen</li>
         </ul>
-        <p>
+        <p hidden>
           Meer info via de officiële pagina van de stad:{' '}
           <a href="https://www.kortrijk.be/formulieren/digitafel-xl-overstappen-naar-linux-mint">
             kortrijk.be
