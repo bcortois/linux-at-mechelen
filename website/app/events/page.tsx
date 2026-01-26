@@ -46,7 +46,7 @@ export default function Events() {
         <ul>
           <li>Kennismaking met het initiatief Linux@Mechelen</li>
           <li>Een praktijkvoorbeeld van een ervaren digihelper</li>
-          <li>De mogelijkheid om Linux tijdelijk op je eigen toestel te testen via USB-stick</li>
+          <li>De mogelijkheid om Linux op je eigen toestel uit te proberen via USB-stick zonder iets te installeren of overschrijven</li>
         </ul>
         <p hidden>
           Meer info via de officiële pagina van de stad:{' '}
