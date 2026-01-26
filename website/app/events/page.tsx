@@ -44,7 +44,7 @@ export default function Events() {
         </p>
         <p>Tijdens de sessies bieden we:</p>
         <ul>
-          <li>Kennismaking met het initiaitef Linux@Mechelen</li>
+          <li>Kennismaking met het initiatief Linux@Mechelen</li>
           <li>Een praktijkvoorbeeld van een ervaren digihelper</li>
           <li>De mogelijkheid om Linux tijdelijk op je eigen toestel te testen via USB-stick</li>
         </ul>
