@@ -17,14 +17,14 @@ export default function Events() {
 
       <div className="prose dark:prose-invert max-w-none pt-4">
         <ul>
-          <li>📍 Locatie: Mechelen, meer details volgen nog.</li>
-          <li>🕑 Tijdstip: Avond</li>
+          <li>📍 Locatie: Het Predikheren bibliotheek, Mechelen</li>
+          <li>🕑 Tijdstip: Van 19:00 tot 20:30 </li>
           <li>📅 Data: Donderdag 5 maart</li>
         </ul>
       </div>
-      <div className="py-6" hidden>
+      <div className="py-6">
         <Image
-          src="/static/images/end-of-10.jpg" // Zorg dat dit pad klopt
+          src="/static/images/windows_10_end_support_2026.png" // Zorg dat dit pad klopt
           alt="End of 10"
           width={400}
           height={200}
