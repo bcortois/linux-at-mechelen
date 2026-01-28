@@ -40,13 +40,13 @@ export default function Events() {
           Wat vandaag nog vooral de bewuste gebruiker aanspreekt die meer grip wil op technologie, zou morgen ook een goeie keuze kunnen zijn voor de modale burger die zijn toestel nog niet meteen naar de <strong>afvalberg</strong> wil verwijzen.
         </p>
         <p>
-          We nodigen je daarom graag uit op onze workshop, waar we <strong>Linux als alternatief</strong> voor Windows 10 voorstellen en luisteren naar de <strong>gastspreker</strong> uit Kortrijk die zijn praktijkervaring met Linux als <strong>digihelper</strong> deelt.
+          We nodigen je daarom graag uit op onze workshop, waar we <strong>Linux als alternatief</strong> voor Windows 10 voorstellen en luisteren naar een <strong>gastspreker</strong> uit Kortrijk die zijn praktijkervaring met Linux als <strong>digihelper</strong> deelt.
         </p>
         <p>Tijdens de sessies bieden we:</p>
         <ul>
           <li>Kennismaking met het initiatief Linux@Mechelen</li>
           <li>Een praktijkvoorbeeld van een ervaren digihelper</li>
-          <li>De mogelijkheid om Linux op je eigen toestel uit te proberen via USB-stick zonder iets te installeren of overschrijven</li>
+          <li>De mogelijkheid om Linux op je eigen toestel uit te proberen via USB-stick zonder iets te installeren of te overschrijven</li>
         </ul>
         <p hidden>
           Meer info via de officiële pagina van de stad:{' '}
