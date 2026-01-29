@@ -48,6 +48,7 @@ export default function Events() {
           <li>Een praktijkvoorbeeld van een ervaren digihelper</li>
           <li>De mogelijkheid om Linux op je eigen toestel uit te proberen via USB-stick zonder iets te installeren of te overschrijven</li>
         </ul>
+        <p>Sprekers: Bert Cortois en Bernard Butaye (Linux@Mechelen), Bernard Decock (Digipunt Kortrijk)</p>
         <p hidden>
           Meer info via de officiële pagina van de stad:{' '}
           <a href="https://www.kortrijk.be/formulieren/digitafel-xl-overstappen-naar-linux-mint">
