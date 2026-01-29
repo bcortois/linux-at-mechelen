@@ -15,7 +15,7 @@ export default function Events() {
         </p>
       </div>
 
-      <div className="prose dark:prose-invert max-w-none pt-4">
+      <div className="prose dark:prose-invert max-w-none pt-4" hidden>
         <ul>
           <li>📍 Locatie: Het Predikheren bibliotheek, Mechelen</li>
           <li>🕑 Tijdstip: Van 19:00 tot 20:30 </li>
