@@ -30,6 +30,13 @@ export default function Events() {
           height={200}
           className="mx-auto rounded-xl shadow-md"
         />
+        <Image
+          src="/static/images/linuxmint-boot.png" // Zorg dat dit pad klopt
+          alt="Linux Mint Bootscreen"
+          width={400}
+          height={200}
+          className="mx-auto rounded-xl shadow-md"
+        />
       </div>
 
       <div className="prose dark:prose-invert max-w-none pt-8">
