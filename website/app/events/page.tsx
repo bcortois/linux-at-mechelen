@@ -11,7 +11,7 @@ export default function Events() {
           Linux als alternatief voor Windows 10
         </h1>
         <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-          Een workshop voor Digihelpers en geïnteresseerden.
+          Een workshop voor Digihelpers en herstellers.
         </p>
       </div>
 
