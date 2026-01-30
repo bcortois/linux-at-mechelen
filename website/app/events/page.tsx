@@ -55,8 +55,8 @@ export default function Events() {
           <li>Een praktijkvoorbeeld van een ervaren digihelper</li>
           <li>De mogelijkheid om Linux op je eigen toestel uit te proberen via USB-stick zonder iets te installeren of te overschrijven</li>
         </ul>
-        <p>Inschrijvingen: Stuur een e-mail naar <a href="mailto:info@linux-at-mechelen.be">info@linux-at-mechelen.be</a> met je naam en vanuit welke rol je de workshop wil volgen (Digihelper, hersteller, ...)</p>
-        <p>Sprekers: Bert Cortois en Bernard Butaye (Linux@Mechelen), Bernard Decock (Digipunt Kortrijk)</p>
+        <p><strong>Inschrijvingen:</strong> Stuur een e-mail naar <a href="mailto:info@linux-at-mechelen.be">info@linux-at-mechelen.be</a> met je naam en vanuit welke rol je de workshop wil volgen (Digihelper, hersteller, ...)</p>
+        <p><small><i>Sprekers: Bert Cortois en Bernard Butaye (Linux@Mechelen), Bernard Decock (Digipunt Kortrijk)</i></small></p>
         <p hidden>
           Meer info via de officiële pagina van de stad:{' '}
           <a href="https://www.kortrijk.be/formulieren/digitafel-xl-overstappen-naar-linux-mint">
