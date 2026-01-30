@@ -22,7 +22,7 @@ export default function Events() {
           <li>📅 Data: Donderdag 5 maart</li>
         </ul>
       </div>
-      <div className="py-6">
+      <div className="flex py-6">
         <Image
           src="/static/images/windows_10_end_support_2026.png" // Zorg dat dit pad klopt
           alt="End of 10"
@@ -31,7 +31,7 @@ export default function Events() {
           className="mx-auto rounded-xl shadow-md"
         />
         <Image
-          src="/static/images/linuxmint-boot.png" // Zorg dat dit pad klopt
+          src="/static/images/linuxmint-boot​.png" // Zorg dat dit pad klopt
           alt="Linux Mint Bootscreen"
           width={400}
           height={200}
