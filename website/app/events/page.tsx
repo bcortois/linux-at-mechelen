@@ -22,7 +22,7 @@ export default function Events() {
           <li>📅 Data: Donderdag 5 maart</li>
         </ul>
       </div>
-      <div className="flex flex-col md:flex-row py-6">
+      <div className="flex flex-col gap-4 md:flex-row py-6">
         <Image
           src="/static/images/windows_10_end_support_2026.png" // Zorg dat dit pad klopt
           alt="End of 10"
