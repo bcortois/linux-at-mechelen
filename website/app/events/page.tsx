@@ -30,7 +30,6 @@ export default function Events() {
           <li>een woordje uitleg en <strong>antwoord op jouw vragen</strong> en</li>
           <li>laptops met Linux om uit te proberen.</li>
         </ul>
-        </p>
       </div>
       <div className="prose dark:prose-invert max-w-none pt-4">
         <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
