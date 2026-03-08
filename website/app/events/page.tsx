@@ -77,11 +77,22 @@ export default function Events() {
       </div>
       <div className="prose dark:prose-invert max-w-none pt-4">
         <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
-          Kennismakingsessie @ Recupperij
+          Installatiesessie @ Recupperij
         </h1>
         <ul>
           <li>📅 Data: Zaterdag 30 mei</li>
           <li>🕑 Tijdstip: Op reservatie in de namiddag </li>
+          <li>📍 Locatie: Battelsesteenweg 48, 2800 Mechelen</li>
+          <li>Reservatie: link</li>
+        </ul>
+      </div>
+      <div className="prose dark:prose-invert max-w-none pt-4">
+        <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
+          Installatiesessie @ Recupperij
+        </h1>
+        <ul>
+          <li>📅 Data: Zaterdag 21 juni</li>
+          <li>🕑 Tijdstip: Op reservatie in de voormiddag </li>
           <li>📍 Locatie: Battelsesteenweg 48, 2800 Mechelen</li>
           <li>Reservatie: link</li>
         </ul>
