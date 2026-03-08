@@ -61,6 +61,31 @@ export default function Events() {
           <li>📍 Locatie: Goswin de Stassartstraat 88, 2800 Mechelen</li>
         </ul>
       </div>
+      <div className="space-y-2 pt-6 pb-8 md:space-y-5">
+        <h1 className="text-3xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 dark:text-gray-100">
+          Overschakelen op Linux Mint
+        </h1>
+        <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
+          één op één begeleiding om jouw computer over te zetten naar Linux Mint.
+        </p>
+      </div>
+      <div className="prose dark:prose-invert max-w-none pt-8">
+        <p>
+          Ben je overtuigt dat Linux voor jouw een oplossing kan zijn? Schijf je dan in voor één van onze installatiesessies.
+          Samen met een installateur bespreek je wat je na de overschakeling wil behouden en welke apps je zoals nodig hebt.
+        </p>
+      </div>
+      <div className="prose dark:prose-invert max-w-none pt-4">
+        <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
+          Kennismakingsessie @ Recupperij
+        </h1>
+        <ul>
+          <li>📅 Data: Zaterdag 30 mei</li>
+          <li>🕑 Tijdstip: Op reservatie in de namiddag </li>
+          <li>📍 Locatie: Battelsesteenweg 48, 2800 Mechelen</li>
+          <li>Reservatie: link</li>
+        </ul>
+      </div>
       <div className="flex flex-col gap-4 md:flex-row py-6" hidden>
         <Image
           src="/static/images/windows_10_end_support_2026.png" // Zorg dat dit pad klopt
