@@ -14,7 +14,34 @@ export default function Events() {
           Kennismakingsessies met vrije inloop. Geschikt voor iedereen.
         </p>
       </div>
-
+      <div className="prose dark:prose-invert max-w-none pt-8">
+        <p>
+          <strong>Windows 10 stopt</strong>, maar je computer hoeft niet mee te stoppen. Geef hem een <strong>tweede leven met Linux</strong>! 
+          Kom langs op onze vrije inloopsessie en probeer zelf Linux uit op je eigen computer. 
+          Je hoeft niets voor te bereiden en we wijzigen niets aan je toestel. Na de sessie start je je computer gewoon opnieuw op zoals voordien. 
+          Bovendien ben je tijdens de sessie vrij om te komen en gaan wanneer je wenst.
+        </p>
+        <p>
+          Tijdens de sessies bieden we:
+        </p>
+        <ul>
+          <li>de mogelijkheid om <strong>Linux Mint</strong> op je eigen toestel <strong>uit te proberen</strong></li>
+          <li>de kans om aan de hand van begeleidende oefeningen <strong>zelfstandig kennis te maken</strong> met dit alternatief voor Windows</li>
+          <li>een woordje uitleg en <strong>antwoord op jouw vragen</strong> en</li>
+          <li>laptops met Linux om uit te proberen.</li>
+        </ul>
+        </p>
+      </div>
+      <div className="prose dark:prose-invert max-w-none pt-4">
+        <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
+          Kennismakingsessie @ Wel&Wee
+        </h1>
+        <ul>
+          <li>📅 Data: Woensdag 1 april</li>
+          <li>🕑 Tijdstip: Van 14:00 tot 17:00 </li>
+          <li>📍 Locatie: Meer info volgt nog</li>
+        </ul>
+      </div>
       <div className="prose dark:prose-invert max-w-none pt-4">
         <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
           Kennismakingsessie @ Bibliotheek Mechelen
