@@ -83,7 +83,7 @@ export default function Events() {
           <li>📅 Data: Zaterdag 30 mei</li>
           <li>🕑 Tijdstip: Op reservatie in de namiddag </li>
           <li>📍 Locatie: Battelsesteenweg 48, 2800 Mechelen</li>
-          <li>Reservatie: Mail naar info@linux-at-mechelen.be</li>
+          <li>Reservatie: Mail naar <a href="mailto:info@linux-at-mechelen.be">info@linux-at-mechelen.be</a></li>
         </ul>
       </div>
       <div className="prose dark:prose-invert max-w-none pt-4">
@@ -94,7 +94,7 @@ export default function Events() {
           <li>📅 Data: Zaterdag 21 juni</li>
           <li>🕑 Tijdstip: Op reservatie in de voormiddag </li>
           <li>📍 Locatie: Battelsesteenweg 48, 2800 Mechelen</li>
-          <li>Reservatie: Mail naar info@linux-at-mechelen.be</li>
+          <li>Reservatie: Mail naar <a href="mailto:info@linux-at-mechelen.be">info@linux-at-mechelen.be</a></li>
         </ul>
       </div>
       <div className="flex flex-col gap-4 md:flex-row py-6" hidden>
