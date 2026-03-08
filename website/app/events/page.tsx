@@ -8,21 +8,34 @@ export default function Events() {
     <div className="divide-y divide-gray-200 dark:divide-gray-700">
       <div className="space-y-2 pt-6 pb-8 md:space-y-5">
         <h1 className="text-3xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 dark:text-gray-100">
-          Linux als alternatief voor Windows 10
+          Maak kennis met Linux
         </h1>
         <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-          Een workshop voor Digihelpers en herstellers.
+          Kennismakingsessies met vrije inloop. Geschikt voor iedereen.
         </p>
       </div>
 
       <div className="prose dark:prose-invert max-w-none pt-4">
+        <h1 className="text-xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 dark:text-gray-100">
+          Kennismakingsessie @ Het Predikheren - Bibliotheek Mechelen
+        </h1>
         <ul>
-          <li>📍 Locatie: Het Predikheren bibliotheek, Mechelen</li>
-          <li>🕑 Tijdstip: Van 19:00 tot 20:30 </li>
-          <li>📅 Data: Donderdag 5 maart</li>
+          <li>📍 Locatie: Goswin de Stassartstraat 88, 2800 Mechelen</li>
+          <li>🕑 Tijdstip: Van 17:00 tot 19:00 </li>
+          <li>📅 Data: Donderdag 7 mei</li>
         </ul>
       </div>
-      <div className="flex flex-col gap-4 md:flex-row py-6">
+      <div className="prose dark:prose-invert max-w-none pt-4">
+        <h1 className="text-xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 dark:text-gray-100">
+          Kennismakingsessie @ Het Predikheren - Bibliotheek Mechelen
+        </h1>
+        <ul>
+          <li>📍 Locatie: Goswin de Stassartstraat 88, 2800 Mechelen</li>
+          <li>🕑 Tijdstip: Van 17:00 tot 19:00 </li>
+          <li>📅 Data: Donderdag 11 juni</li>
+        </ul>
+      </div>
+      <div className="flex flex-col gap-4 md:flex-row py-6" hidden>
         <Image
           src="/static/images/windows_10_end_support_2026.png" // Zorg dat dit pad klopt
           alt="End of 10"
@@ -39,7 +52,7 @@ export default function Events() {
         />
       </div>
 
-      <div className="prose dark:prose-invert max-w-none pt-8">
+      <div className="prose dark:prose-invert max-w-none pt-8" hidden>
         <p>
           Ideaal voor alles wat je dagelijks op je computer doet, en daarmee een prima alternatief voor wie een <strong>Windows 10</strong> toestel heeft dat nu al of straks niet meer ondersteund wordt.
         </p>
