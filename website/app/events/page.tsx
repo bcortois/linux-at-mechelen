@@ -17,22 +17,22 @@ export default function Events() {
 
       <div className="prose dark:prose-invert max-w-none pt-4">
         <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
-          Kennismakingsessie @ Het Predikheren - Bibliotheek Mechelen
+          Kennismakingsessie @ Bibliotheek Mechelen
         </h1>
         <ul>
-          <li>📍 Locatie: Goswin de Stassartstraat 88, 2800 Mechelen</li>
-          <li>🕑 Tijdstip: Van 17:00 tot 19:00 </li>
           <li>📅 Data: Donderdag 7 mei</li>
+          <li>🕑 Tijdstip: Van 17:00 tot 19:00 </li>
+          <li>📍 Locatie: Goswin de Stassartstraat 88, 2800 Mechelen</li>
         </ul>
       </div>
       <div className="prose dark:prose-invert max-w-none pt-4">
         <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
-          Kennismakingsessie @ Het Predikheren - Bibliotheek Mechelen
+          Kennismakingsessie @ Bibliotheek Mechelen
         </h1>
         <ul>
-          <li>📍 Locatie: Goswin de Stassartstraat 88, 2800 Mechelen</li>
-          <li>🕑 Tijdstip: Van 17:00 tot 19:00 </li>
           <li>📅 Data: Donderdag 11 juni</li>
+          <li>🕑 Tijdstip: Van 17:00 tot 19:00 </li>
+          <li>📍 Locatie: Goswin de Stassartstraat 88, 2800 Mechelen</li>
         </ul>
       </div>
       <div className="flex flex-col gap-4 md:flex-row py-6" hidden>
