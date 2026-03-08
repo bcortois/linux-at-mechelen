@@ -16,7 +16,7 @@ export default function Events() {
       </div>
 
       <div className="prose dark:prose-invert max-w-none pt-4">
-        <h1 className="text-xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 dark:text-gray-100">
+        <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
           Kennismakingsessie @ Het Predikheren - Bibliotheek Mechelen
         </h1>
         <ul>
@@ -26,7 +26,7 @@ export default function Events() {
         </ul>
       </div>
       <div className="prose dark:prose-invert max-w-none pt-4">
-        <h1 className="text-xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 dark:text-gray-100">
+        <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
           Kennismakingsessie @ Het Predikheren - Bibliotheek Mechelen
         </h1>
         <ul>
