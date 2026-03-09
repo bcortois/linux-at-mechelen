@@ -1,0 +1,23 @@
+---
+title: Digihelpers maken kennis met Linux(@Mechelen)
+date: '2026-03-09'
+tags: ['linux', 'workshop', 'endof10']
+draft: false
+summary: Samen met de Digihelpers bouwen we aan een ondersteuningsnetwerk.
+layout: PostSimple
+authors: ['bert']
+---
+
+Op 5 maart organiseerden we een workshop voor digihelpers en herstellers uit de brede regio Mechelen om hen kennis te laten maken met het initiatief Linux@Mechelen en met Linux Mint als alternatief voor Windows 10. 
+We zijn verheugd te melden dat onze eerste activiteit een succes was.
+
+We ontvingen maar liefst 16 ondersteuners die zich wekelijks inzetten om mensen op weg te helpen in onze gedigitaliseerde maatschappij. Deze helden en heldinnen zijn voor ons onmisbaar voor het project. 
+We bespraken de mogelijkheden om samen een ondersteuningsnetwerk vorm te geven, zodat (toekomstige) Linux-gebruikers terechtkunnen bij Linux-steunpunten met hun digitale vragen.
+
+Daarvoor nodigden we eveneens een gastspreker uit Kortrijk uit om zijn ervaringen als digihelper met Linux met ons te delen. 
+Bernard Decock voorziet samen met [Linux@Kortrijk](https://linux-at-kortrijk.be) in een ondersteuningsnetwerk voor Linux in Kortrijk.
+
+We kijken ernaar uit om samen aan de slag te gaan en van elkaar te leren. Daarvoor zullen we onder andere gebruikmaken van de [Kennishub](https://kennishub.linux-at-mechelen.be), 
+waar meer ervaren gebruikers antwoorden op veelgestelde vragen zullen publiceren, zodat iedereen daar gebruik van kan maken. Wens je zelf bij te dragen aan deze kennisverzameling? Neem dan zeker [contact](info@linux-at-mechelen.be) met ons op.
+
+---
