@@ -38,7 +38,7 @@ export default function Events() {
         <ul>
           <li>📅 Data: Woensdag 1 april</li>
           <li>🕑 Tijdstip: Van 14:00 tot 17:00 </li>
-          <li>📍 Locatie: Wollemarkt 7/9, 2800 Mechelen</li>
+          <li>📍 Locatie: Sint-Romboutskerkhof 1A, 2800 Mechelen</li>
         </ul>
       </div>
       <div className="prose dark:prose-invert max-w-none pt-4">
