@@ -80,8 +80,19 @@ export default function Events() {
           Installatiesessie @ Recupperij
         </h1>
         <ul>
+          <li>📅 Data: Zaterdag 25 april</li>
+          <li>🕑 Tijdstip: Op reservatie in de voormiddag</li>
+          <li>📍 Locatie: Battelsesteenweg 48, 2800 Mechelen</li>
+          <li>Reservatie: Mail naar <a href="mailto:info@linux-at-mechelen.be">info@linux-at-mechelen.be</a></li>
+        </ul>
+      </div>
+      <div className="prose dark:prose-invert max-w-none pt-4">
+        <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
+          Installatiesessie @ Recupperij
+        </h1>
+        <ul>
           <li>📅 Data: Zaterdag 30 mei</li>
-          <li>🕑 Tijdstip: Op reservatie in de namiddag </li>
+          <li>🕑 Tijdstip: Op reservatie in de namiddag</li>
           <li>📍 Locatie: Battelsesteenweg 48, 2800 Mechelen</li>
           <li>Reservatie: Mail naar <a href="mailto:info@linux-at-mechelen.be">info@linux-at-mechelen.be</a></li>
         </ul>
@@ -92,7 +103,7 @@ export default function Events() {
         </h1>
         <ul>
           <li>📅 Data: Zondag 21 juni</li>
-          <li>🕑 Tijdstip: Op reservatie in de voormiddag </li>
+          <li>🕑 Tijdstip: Op reservatie in de voormiddag</li>
           <li>📍 Locatie: Battelsesteenweg 48, 2800 Mechelen</li>
           <li>Reservatie: Mail naar <a href="mailto:info@linux-at-mechelen.be">info@linux-at-mechelen.be</a></li>
         </ul>
