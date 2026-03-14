@@ -91,7 +91,7 @@ export default function Events() {
           Installatiesessie @ Recupperij
         </h1>
         <ul>
-          <li>📅 Data: Zaterdag 21 juni</li>
+          <li>📅 Data: Zondag 21 juni</li>
           <li>🕑 Tijdstip: Op reservatie in de voormiddag </li>
           <li>📍 Locatie: Battelsesteenweg 48, 2800 Mechelen</li>
           <li>Reservatie: Mail naar <a href="mailto:info@linux-at-mechelen.be">info@linux-at-mechelen.be</a></li>
