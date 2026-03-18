@@ -43,12 +43,32 @@ export default function Events() {
       </div>
       <div className="prose dark:prose-invert max-w-none pt-4">
         <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
+          Kennismakingsessie @ Avansa
+        </h1>
+        <ul>
+          <li>📅 Data: Zaterdag 18 april</li>
+          <li>🕑 Tijdstip: Van 14:00 tot 17:00 </li>
+          <li>📍 Locatie: Adegemstraat 79/81, 2800 Mechelen</li>
+        </ul>
+      </div>
+      <div className="prose dark:prose-invert max-w-none pt-4">
+        <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
           Kennismakingsessie @ Bibliotheek Mechelen
         </h1>
         <ul>
           <li>📅 Data: Donderdag 7 mei</li>
           <li>🕑 Tijdstip: Van 17:00 tot 19:00 </li>
           <li>📍 Locatie: Goswin de Stassartstraat 88, 2800 Mechelen</li>
+        </ul>
+      </div>
+      <div className="prose dark:prose-invert max-w-none pt-4">
+        <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
+          Kennismakingsessie @ Avansa
+        </h1>
+        <ul>
+          <li>📅 Data: Woensdag 20 mei</li>
+          <li>🕑 Tijdstip: Van 10:00 tot 13:00 </li>
+          <li>📍 Locatie: Adegemstraat 79/81, 2800 Mechelen</li>
         </ul>
       </div>
       <div className="prose dark:prose-invert max-w-none pt-4">
