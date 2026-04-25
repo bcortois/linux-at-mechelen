@@ -41,7 +41,7 @@ export default function Events() {
           <li>📍 Locatie: Sint-Romboutskerkhof 1A, 2800 Mechelen</li>
         </ul>
       </div>
-      <div className="prose dark:prose-invert max-w-none pt-4">
+      <div className="prose dark:prose-invert max-w-none pt-4" hidden>
         <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
           Kennismakingsessie @ Avansa
         </h1>
