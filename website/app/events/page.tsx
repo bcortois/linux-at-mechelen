@@ -95,7 +95,7 @@ export default function Events() {
           Samen met een installateur bespreek je wat je na de overschakeling wil behouden en welke apps je zoals nodig hebt.
         </p>
       </div>
-      <div className="prose dark:prose-invert max-w-none pt-4">
+      <div className="prose dark:prose-invert max-w-none pt-4" hidden>
         <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
           Installatiesessie @ Recupperij
         </h1>
