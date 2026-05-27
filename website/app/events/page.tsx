@@ -86,7 +86,7 @@ export default function Events() {
           Kennismakingsessie @ Bibliotheek Mechelen
         </h1>
         <ul>
-          <li>📅 Data: Donderdag 7 augustus</li>
+          <li>📅 Data: Donderdag 6 augustus</li>
           <li>🕑 Tijdstip: Van 16:30 tot 19:00 </li>
           <li>📍 Locatie: Goswin de Stassartstraat 88, 2800 Mechelen</li>
         </ul>
