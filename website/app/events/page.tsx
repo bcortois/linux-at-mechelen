@@ -150,6 +150,17 @@ export default function Events() {
       </div>
       <div className="prose dark:prose-invert max-w-none pt-4">
         <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
+          Installatiesessie @ De Recupperij
+        </h1>
+        <ul>
+          <li>📅 Data: Zondag 23 oktober</li>
+          <li>🕑 Tijdstip: Op reservatie in de voormiddag</li>
+          <li>📍 Locatie: Battelsesteenweg 48, 2800 Mechelen</li>
+          <li>Reservatie: Mail naar <a href="mailto:info@linux-at-mechelen.be">info@linux-at-mechelen.be</a></li>
+        </ul>
+      </div>
+      <div className="prose dark:prose-invert max-w-none pt-4">
+        <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
           Installatiesessie @ De Potterij
         </h1>
         <ul>
