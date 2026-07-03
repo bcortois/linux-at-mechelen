@@ -101,6 +101,26 @@ export default function Events() {
           <li>📍 Locatie: Goswin de Stassartstraat 88, 2800 Mechelen</li>
         </ul>
       </div>
+      <div className="prose dark:prose-invert max-w-none pt-4">
+        <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
+          Kennismakingsessie @ Avansa Mechelen
+        </h1>
+        <ul>
+          <li>📅 Data: Zondag 15 november</li>
+          <li>🕑 Tijdstip: Van 10:00 tot 13:00 </li>
+          <li>📍 Locatie: Adegemstraat 79/81, 2800 Mechelen</li>
+        </ul>
+      </div>
+      <div className="prose dark:prose-invert max-w-none pt-4">
+        <h1 className="text-lg leading-9 font-extrabold tracking-tight text-gray-900 dark:text-gray-100">
+          Kennismakingsessie @ Avansa Mechelen
+        </h1>
+        <ul>
+          <li>📅 Data: Woensdag 2 december</li>
+          <li>🕑 Tijdstip: Van 14:00 tot 17:00 </li>
+          <li>📍 Locatie: Adegemstraat 79/81, 2800 Mechelen</li>
+        </ul>
+      </div>
       <div className="space-y-2 pt-6 pb-8 md:space-y-5">
         <h1 className="text-3xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 dark:text-gray-100">
           Overschakelen op Linux Mint
