@@ -8,7 +8,7 @@ const EXERCISES: { id: number; nav: string; title: string }[] = [
   { id: 2, nav: '002-create-user', title: 'Gebruiker aanmaken' },
   { id: 3, nav: '003-background-change', title: 'Achtergrond wijzigen' },
   { id: 4, nav: '004-file-explorer', title: 'Verkenner - bestanden beheren' },
-  { id: 5, nav: '005-pictures', title: "Werken met foto's" },
+  { id: 5, nav: '005-pictures', title: "Foto's en video's importeren van je smartphone" },
   { id: 6, nav: '006-web', title: 'Surfen op het web' },
   { id: 7, nav: '007-mails', title: 'Mails gebruiken' },
   { id: 8, nav: '008-libre-office', title: 'Office: Word, Excel...' },
